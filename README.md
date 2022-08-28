@@ -8,3 +8,5 @@ Fair warning, running it in MS-DOS is slow. Really slow. I hope to make a faster
 First video:https://www.youtube.com/watch?v=f4ITYeh99f4
 
 Second Video:https://www.youtube.com/watch?v=iQH88fZdV-I
+
+Any issues will not be fixed.
